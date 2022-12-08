@@ -25,4 +25,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# Recep's updates
 models
+.idea
+libdarknet.a
+libdarknet.so
+
